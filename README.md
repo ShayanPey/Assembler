@@ -1,5 +1,5 @@
 # Assembler
-x64 Assembler written in Assembly!
+x64 Assembler written completly in Assembly! 
 
 Just like `nasm`, this assembly code, inputs a file written in assembly language, and converts it to machine code.
 
