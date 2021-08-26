@@ -1,0 +1,5 @@
+- DWORD, WORD, BYTE	Must be UPPERCASE and Written for every memory
+- Registers		Must be in lowercase
+- Numbers		Must be in HEX. Starting with 0x...
+- Discplacement	Must be in HEX. e.g. [0x123]
+
